@@ -1,7 +1,6 @@
-# DotsAI_1_70 Artificial Intelligence of Dots Game
-Исходники https://github.com/pryimak/DotsAI_1_70
+DotsAI_1_70 Artificial Intelligence of Dots Game
 
-Программа для игры в Точки против искусственного интеллекта (ИИ). 
+DotsAI (PointsAI) - программа для игры в Точки против искусственного интеллекта (ИИ). 
 Автор	Алексей Приймак.
 Написана на	java. 
 Языки интерфейса: русский, английский.
@@ -10,6 +9,7 @@
 Формат игры: Человек vs ИИ, рандом vs ИИ.
 
 Лицензия - GPL v2.
+Исходники https://github.com/pryimak/DotsAI_1_70
 
 Алгоритм окружения и рисования поля взяты из программы Васи Новикова https://github.com/vn971/multipoints
 
