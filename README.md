@@ -1,4 +1,8 @@
-DotsAI_1_70 - Artificial Intelligence of Dots Game.
+Самая новая версия программы DotsAI 2.0 доступна на странице https://playdots.ru/dotsai
+
+---------------------------------------------------------------------------------------------------
+
+DotsAI 1.7 - Artificial Intelligence of Dots Game.
 
 DotsAI (PointsAI) - программа для игры в Точки против искусственного интеллекта (ИИ).
 
