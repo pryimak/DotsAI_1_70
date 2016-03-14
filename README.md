@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------------------------------------------
 
-DotsAI 1.7 - Artificial Intelligence of Dots Game.
+Описание версии DotsAI 1.7 (Artificial Intelligence of Dots Game):
 
 DotsAI (PointsAI) - программа для игры в Точки против искусственного интеллекта (ИИ).
 
